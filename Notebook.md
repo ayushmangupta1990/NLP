@@ -40,11 +40,19 @@
 - AllenNLP
 
 
+## Papers
+- Comparative study of CNN and LSTM (https://arxiv.org/abs/1702.01923)
+- Recent Trends in Deep Learning Based Natural Language Processing (https://arxiv.org/abs/1708.02709)
+
+
+
 ## Blogs
+
 - http://veredshwartz.blogspot.com/search?updated-max=2018-01-02T16:03:00%2B02:00&max-results=7
 - https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/
 - http://ruder.io/deep-learning-nlp-best-practices/ [IMP]
-
+- http://www.wildml.com/ [IMP] - Attentions 
+- https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-understanding-word2vec-e0128a460f0f 
 
 
 ## Datasets
