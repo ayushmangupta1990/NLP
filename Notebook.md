@@ -41,8 +41,8 @@
 
 
 ## Papers
-- Comparative study of CNN and LSTM (https://arxiv.org/abs/1702.01923)
-- Recent Trends in Deep Learning Based Natural Language Processing (https://arxiv.org/abs/1708.02709)
+- [ ] Comparative study of CNN and LSTM (https://arxiv.org/abs/1702.01923)
+- [ ] Recent Trends in Deep Learning Based Natural Language Processing (https://arxiv.org/abs/1708.02709 )
 
 
 
