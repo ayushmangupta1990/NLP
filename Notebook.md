@@ -56,5 +56,6 @@
 - [ ] https://github.com/susanli2016/NLP-with-Python/blob/master/Hidden%20Markov%20Models%20for%20POS.ipynb
 - [ ] https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54
 - [ ] https://towardsdatascience.com/training-and-visualising-word-vectors-2f946c6430f8
+- [ ] https://towardsdatascience.com/neural-machine-translator-with-less-than-50-lines-of-code-guide-1fe4fdfe6292
 ## Datasets
 1. Daily Mail CNN [Link](https://github.com/abisee/cnn-dailymail)
