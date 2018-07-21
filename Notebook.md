@@ -5,7 +5,8 @@
 - Word2Vec
 - Glove
 - FastText
-
+- [Mapping Bilingual Word Embeddings](https://arxiv.org/abs/1710.04087) 
+  - Fully Unsupervised Learning
 
 > Domain Adaption or Transfer Learning
 
@@ -18,9 +19,21 @@
 - SemiEval [Paper](http://www.aclweb.org/anthology/S17-2088)
 
 
+> Summarizaiton System
+- Paulus [Paper](https://arxiv.org/abs/1705.04304) [1]
+  - Intra Attention Strategy
+  - Reinforcement Learning
+  
+
+
 
 - NER
 - Dependency Parsing
 
 
 
+
+
+
+## Datasets
+1. Daily Mail CNN [Link](https://github.com/abisee/cnn-dailymail)
