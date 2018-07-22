@@ -30,9 +30,17 @@
 - NER
 - Dependency Parsing
 
+> Discourse Coherence
+- 
+
+> Language Modelling 
 
 
+> Syntacting Parsing
 
+> Natural Language Inference
+
+> Question Answer
 
 ## NLP Framework
 - PARL.AI
