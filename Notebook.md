@@ -58,7 +58,8 @@
 - [ ] Comparative study of CNN and LSTM (https://arxiv.org/abs/1702.01923)
 - [ ] Recent Trends in Deep Learning Based Natural Language Processing (https://arxiv.org/abs/1708.02709 )
 - [ ] https://arxiv.org/abs/1611.01603
-
+- [ ] [Layer Normalization](https://arxiv.org/pdf/1607.06450.pdf)
+ 
 
 ## Blogs
 - [ ] https://danijar.com/language-modeling-with-layer-norm-and-gru/
