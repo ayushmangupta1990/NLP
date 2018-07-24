@@ -26,6 +26,10 @@
   
 
 
+> Attention 
+- Trilinear Attention [BIDAF](https://arxiv.org/pdf/1611.01603.pdf)
+
+
 
 - NER
 - Dependency Parsing
@@ -41,6 +45,8 @@
 > Natural Language Inference
 
 > Question Answer
+-[QANET Implementation](https://medium.com/@minsangkim/implementing-question-answering-networks-with-cnns-5ae5f08e312b)
+
 
 ## NLP Framework
 - PARL.AI
