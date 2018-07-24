@@ -61,7 +61,7 @@
 
 
 ## Blogs
-
+- [ ] https://danijar.com/language-modeling-with-layer-norm-and-gru/
 - [ ] http://veredshwartz.blogspot.com/search?updated-max=2018-01-02T16:03:00%2B02:00&max-results=7
 - [ ] https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/
 - [ ] http://ruder.io/deep-learning-nlp-best-practices/ [IMP]
