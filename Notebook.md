@@ -54,6 +54,14 @@
 - AllenNLP
 
 
+## Challenge
+- [Dialog State Tracking Challenge](http://camdial.org/~mh521/dstc/)
+
+
+## Slides
+
+- [poly-AI.com Converstion AI](https://www.poly-ai.com/docs/naacl18.pdf?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=NLP%20News) 
+
 ## Papers
 - [ ] Comparative study of CNN and LSTM (https://arxiv.org/abs/1702.01923)
 - [ ] Recent Trends in Deep Learning Based Natural Language Processing (https://arxiv.org/abs/1708.02709 )
