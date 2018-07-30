@@ -81,5 +81,6 @@
 - [ ] https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54
 - [ ] https://towardsdatascience.com/training-and-visualising-word-vectors-2f946c6430f8
 - [ ] https://towardsdatascience.com/neural-machine-translator-with-less-than-50-lines-of-code-guide-1fe4fdfe6292
+- [ ] http://www.eyeshalfclosed.com/teaching/95865-recitation-word2vec_as_PMI.pdf
 ## Datasets
 1. Daily Mail CNN [Link](https://github.com/abisee/cnn-dailymail)
