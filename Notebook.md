@@ -64,7 +64,8 @@
 
 ## Papers
 - [ ] https://www.youtube.com/watch?v=rQssCd_d8ZA&feature=youtu.be imp
-- [ ]http://www.aclweb.org/anthology/W16-3613
+- [ ] http://www.aclweb.org/anthology/W16-3613
+- [ ] https://software.intel.com/en-us/articles/transfer-learning-in-natural-language-processing
 
 - [ ] Comparative study of CNN and LSTM (https://arxiv.org/abs/1702.01923)
 - [ ] Recent Trends in Deep Learning Based Natural Language Processing (https://arxiv.org/abs/1708.02709 )
