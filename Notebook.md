@@ -74,6 +74,7 @@
  
 
 ## Blogs
+- [ ] https://theneuralperspective.com/2017/06/05/more-on-embeddings-spring-2017/
 - [ ] https://medium.com/@florijan.stamenkovic_99541/rnn-language-modelling-with-pytorch-packed-batching-and-tied-weights-9d8952db35a9
 - [ ] https://danijar.com/language-modeling-with-layer-norm-and-gru/
 - [ ] http://veredshwartz.blogspot.com/search?updated-max=2018-01-02T16:03:00%2B02:00&max-results=7
